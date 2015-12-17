@@ -15,7 +15,7 @@
 		ms.tgt_pltfrm="vm-linux"
 		ms.devlang="na"
 		ms.topic="article"
-		ms.date="07/20/2015"
+		ms.date="12/15/2015"
 		ms.author="Ning"/>
 
 
@@ -23,7 +23,7 @@
 
 ## Introduction
 
-The Linux Diagnostic Extension helps a user monitor the Linux VMs running on Microsoft Azure, with the following functionalities:
+The Linux Diagnostic Extension helps a user monitor the Linux VMs running on Microsoft Azure by:
 
 - Collects and uploads Linux VM's system performance, diagnostic, and syslog data to user’s storage table.
 - Enables user to customize the data metrics that will be collected and uploaded.
